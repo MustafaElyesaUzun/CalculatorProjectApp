@@ -14,6 +14,9 @@
 
             Console.Write("İkinci Sayıyı Giriniz: ");
             int sayi = int.Parse(Console.ReadLine());
+
+
+
         }
     }
 }
