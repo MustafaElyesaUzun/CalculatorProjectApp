@@ -10,13 +10,13 @@
             int sayi1 = int.Parse(Console.ReadLine());
 
             Console.Write("İşlem Seçiniz (+) (-) (*) (/) (%): ");
-            int islem = int.Parse(Console.ReadLine());
+            string islem = Console.ReadLine();
 
             Console.Write("İkinci Sayıyı Giriniz: ");
             int sayi = int.Parse(Console.ReadLine());
 
 
-
+            
         }
     }
 }
