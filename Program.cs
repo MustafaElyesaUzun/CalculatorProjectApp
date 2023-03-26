@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hesap  Makinesı");
+            Console.WriteLine("Hesap   Makinesı");
 
             Console.Write("Birinci Sayıyı Giriniz: ");
             double sayi1 = double.Parse(Console.ReadLine());
